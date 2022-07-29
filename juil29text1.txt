@@ -1,3 +1,5 @@
 creating a new files to be pulled
 
 from command line
+appartment is not needed
+but address and zip code are needed
